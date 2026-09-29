@@ -1,0 +1,4 @@
+[
+    { "id": "EMP001", "name": "Mark Espedido", "role": "Admin", "status": "Active" },
+    { "id": "EMP002", "name": "Jane Doe", "role": "Virtual Assistant", "status": "Idle" }
+]
